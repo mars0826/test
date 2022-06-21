@@ -10,9 +10,10 @@
 
 用一两段话介绍这个项目以及它能做些什么。
 
-![](https://github.com/dbader/readme-template/raw/master/header.png)
+![](https://github.com/mars0826/test/blob/master/mqtt-im-setup/mqtt-setup.png)
 
 ## Getting Started 使用指南
+![](https://github.com/mars0826/test/blob/master/mqtt-im-setup/mqtt-setup.png)
 setup 目錄結構說明
 .
 ├── conf <--放配置相關設定檔案
