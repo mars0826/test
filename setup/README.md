@@ -50,9 +50,9 @@
 選擇要運行的項目  
 
 注意:  
-1.authorized_keys 請記得要替換!
-2.部署任一服務前,都必須先運行 " (1) Ubuntu20.04初始化 "
-3.src/code/mqtt-im.zip 代碼庫:git@git.apple.net:apple/server/mqtt-im.git
+1.authorized_keys 請記得要替換!  
+2.部署任一服務前,都必須先運行 " (1) Ubuntu20.04初始化 "  
+3.src/code/mqtt-im.zip 代碼庫:git@git.apple.net:apple/server/mqtt-im.git  
 
 
 
